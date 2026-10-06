@@ -1,0 +1,3 @@
+# Day 1
+today I watched a video on C functions, it was quite confusing...
+
